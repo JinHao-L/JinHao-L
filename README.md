@@ -48,6 +48,7 @@
 ---
 <details>
   <summary>:zap: Recent Activity</summary>
+  
   <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#11](https://github.com/JinHao-L/tp/pull/11) in [JinHao-L/tp](https://github.com/JinHao-L/tp)
 2. 💪 Opened PR [#11](https://github.com/JinHao-L/tp/pull/11) in [JinHao-L/tp](https://github.com/JinHao-L/tp)
@@ -58,6 +59,7 @@
 </details>
 <details>
   <summary>:zap: GitHub Stats</summary>
+  
   <img align="left" alt="JinHao-L's Github Stats" src="https://github-readme-stats-git-master.jinhao-l.vercel.app/api?username=jinhao-l&show_icons=true&hide_border=true&theme=buefy" />
 
   <!-- ![Top Langs](https://github-readme-stats-git-master.jinhao-l.vercel.app/api/top-langs/?username=jinhao-l&count_private=true&layout=compact) -->
