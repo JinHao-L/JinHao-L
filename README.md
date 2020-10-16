@@ -30,12 +30,22 @@
 [<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](#)
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
+<br />
+<br />
 
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="JinHao-L's Github Stats" src="https://github-readme-stats-git-master.jinhao-l.vercel.app/api?username=jinhao-l&show_icons=true&hide_border=true&theme=buefy" />
+
+  <!-- ![Top Langs](https://github-readme-stats-git-master.jinhao-l.vercel.app/api/top-langs/?username=jinhao-l&count_private=true&layout=compact) -->
+</details>
 
 <!-- [website]: <my website> -->
 [instagram]: https://www.instagram.com/jin_haooo/
 [linkedin]: https://www.linkedin.com/in/jin-hao-l/
-[expo]: https://expo.io/@jinhao/projects
+[expo]: https://expo.io/@tembufriends/projects/TembuFriends
 [reactDemo]: https://github.com/JinHao-L/tembu-friends
 [firebaseFn]: https://github.com/JinHao-L/tembufriends-functions
 [github]: https://github.com/JinHao-L
