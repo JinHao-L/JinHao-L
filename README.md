@@ -2,7 +2,7 @@
 
 ### I'm a 2nd year Computer Science student in NUS!
 - 🔭 I’m currently working on [Nuudle, an appointment scheduling app](https://ay2021s1-cs2103t-t12-4.github.io/tp/)
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning software engineering techniques and github
 - 👯 I’m looking to collaborate on a open source/commercial project
 - 🥅 2020 Goals: Learn to do cool stuff on GitHub and contribute to Open Source projects
 - 😄 Pronouns: He/His
