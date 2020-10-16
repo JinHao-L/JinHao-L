@@ -46,7 +46,11 @@
 <br />
 
 ---
-
+<details>
+  <summary>:zap: Recent Activity</summary>
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+</details>
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="JinHao-L's Github Stats" src="https://github-readme-stats-git-master.jinhao-l.vercel.app/api?username=jinhao-l&show_icons=true&hide_border=true&theme=buefy" />
