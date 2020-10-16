@@ -49,6 +49,11 @@
 <details>
   <summary>:zap: Recent Activity</summary>
   <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#11](https://github.com/JinHao-L/tp/pull/11) in [JinHao-L/tp](https://github.com/JinHao-L/tp)
+2. 💪 Opened PR [#11](https://github.com/JinHao-L/tp/pull/11) in [JinHao-L/tp](https://github.com/JinHao-L/tp)
+3. 🎉 Merged PR [#98](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/98) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
+4. 💪 Opened PR [#98](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/98) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
+5. ❌ Closed PR [#33](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/33) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
   <!--END_SECTION:activity-->
 </details>
 <details>
