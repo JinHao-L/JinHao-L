@@ -50,11 +50,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/AY2021S1-CS2103T-T12-4/tp/issues/2) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
-2. 🗣 Commented on [#2](https://github.com/AY2021S1-CS2103T-T12-4/tp/issues/2) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
-3. 🗣 Commented on [#19](https://github.com/AY2021S1-CS2103T-T12-4/tp/issues/19) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
-4. ❗️ Closed issue [#7](https://github.com/AY2021S1-CS2103T-T12-4/tp/issues/7) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
-5. 🗣 Commented on [#7](https://github.com/AY2021S1-CS2103T-T12-4/tp/issues/7) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
+1. ❗️ Closed issue [#6](https://github.com/AY2021S1-CS2103T-T12-4/tp/issues/6) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
+2. 🗣 Commented on [#6](https://github.com/AY2021S1-CS2103T-T12-4/tp/issues/6) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
+3. 🗣 Commented on [#5](https://github.com/AY2021S1-CS2103T-T12-4/tp/issues/5) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
+4. 🗣 Commented on [#9](https://github.com/AY2021S1-CS2103T-T12-4/tp/issues/9) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
+5. ❗️ Closed issue [#2](https://github.com/AY2021S1-CS2103T-T12-4/tp/issues/2) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
   <!--END_SECTION:activity-->
 </details>
 <details>
