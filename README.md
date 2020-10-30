@@ -50,11 +50,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/JinHao-L/ped/issues/3) in [JinHao-L/ped](https://github.com/JinHao-L/ped)
-2. ❗️ Opened issue [#2](https://github.com/JinHao-L/ped/issues/2) in [JinHao-L/ped](https://github.com/JinHao-L/ped)
-3. ❗️ Opened issue [#1](https://github.com/JinHao-L/ped/issues/1) in [JinHao-L/ped](https://github.com/JinHao-L/ped)
-4. 🎉 Merged PR [#139](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/139) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
-5. 💪 Opened PR [#139](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/139) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
+1. ❗️ Opened issue [#5](https://github.com/JinHao-L/ped/issues/5) in [JinHao-L/ped](https://github.com/JinHao-L/ped)
+2. ❗️ Opened issue [#4](https://github.com/JinHao-L/ped/issues/4) in [JinHao-L/ped](https://github.com/JinHao-L/ped)
+3. ❗️ Opened issue [#3](https://github.com/JinHao-L/ped/issues/3) in [JinHao-L/ped](https://github.com/JinHao-L/ped)
+4. ❗️ Opened issue [#2](https://github.com/JinHao-L/ped/issues/2) in [JinHao-L/ped](https://github.com/JinHao-L/ped)
+5. ❗️ Opened issue [#1](https://github.com/JinHao-L/ped/issues/1) in [JinHao-L/ped](https://github.com/JinHao-L/ped)
   <!--END_SECTION:activity-->
 </details>
 <details>
