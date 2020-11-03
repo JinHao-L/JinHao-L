@@ -50,11 +50,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#149](https://github.com/AY2021S1-CS2103T-T12-4/tp/issues/149) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
-2. 🎉 Merged PR [#15](https://github.com/JinHao-L/tp/pull/15) in [JinHao-L/tp](https://github.com/JinHao-L/tp)
-3. 💪 Opened PR [#15](https://github.com/JinHao-L/tp/pull/15) in [JinHao-L/tp](https://github.com/JinHao-L/tp)
-4. ❗️ Opened issue [#9](https://github.com/JinHao-L/ped/issues/9) in [JinHao-L/ped](https://github.com/JinHao-L/ped)
-5. ❗️ Opened issue [#8](https://github.com/JinHao-L/ped/issues/8) in [JinHao-L/ped](https://github.com/JinHao-L/ped)
+1. 💪 Opened PR [#172](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/172) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
+2. ❗️ Closed issue [#149](https://github.com/AY2021S1-CS2103T-T12-4/tp/issues/149) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
+3. 🎉 Merged PR [#15](https://github.com/JinHao-L/tp/pull/15) in [JinHao-L/tp](https://github.com/JinHao-L/tp)
+4. 💪 Opened PR [#15](https://github.com/JinHao-L/tp/pull/15) in [JinHao-L/tp](https://github.com/JinHao-L/tp)
+5. ❗️ Opened issue [#9](https://github.com/JinHao-L/ped/issues/9) in [JinHao-L/ped](https://github.com/JinHao-L/ped)
   <!--END_SECTION:activity-->
 </details>
 <details>
