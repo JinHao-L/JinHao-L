@@ -50,11 +50,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#381](https://github.com/nus-cs2103-AY2021S1/forum/issues/381) in [nus-cs2103-AY2021S1/forum](https://github.com/nus-cs2103-AY2021S1/forum)
-2. 💪 Opened PR [#175](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/175) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
-3. ❌ Reopened PR [#174](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/174) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
-4. ❌ Closed PR [#174](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/174) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
-5. 💪 Opened PR [#174](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/174) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
+1. 💪 Opened PR [#181](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/181) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
+2. 🗣 Commented on [#381](https://github.com/nus-cs2103-AY2021S1/forum/issues/381) in [nus-cs2103-AY2021S1/forum](https://github.com/nus-cs2103-AY2021S1/forum)
+3. 💪 Opened PR [#175](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/175) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
+4. ❌ Reopened PR [#174](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/174) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
+5. ❌ Closed PR [#174](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/174) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
   <!--END_SECTION:activity-->
 </details>
 <details>
