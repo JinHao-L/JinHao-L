@@ -50,11 +50,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#202](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/202) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
-2. 🎉 Merged PR [#198](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/198) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
-3. 🎉 Merged PR [#201](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/201) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
-4. 💪 Opened PR [#202](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/202) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
-5. 💪 Opened PR [#201](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/201) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
+1. 💪 Opened PR [#206](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/206) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
+2. 🎉 Merged PR [#202](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/202) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
+3. 🎉 Merged PR [#198](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/198) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
+4. 🎉 Merged PR [#201](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/201) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
+5. 💪 Opened PR [#202](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/202) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
   <!--END_SECTION:activity-->
 </details>
 <details>
