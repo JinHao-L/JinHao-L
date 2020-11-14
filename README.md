@@ -50,11 +50,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#841](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/841) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
-2. 🗣 Commented on [#3556](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/3556) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
-3. 🗣 Commented on [#3557](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/3557) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
-4. 🗣 Commented on [#3558](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/3558) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
-5. 🗣 Commented on [#3559](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/3559) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
+1. 🗣 Commented on [#3545](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/3545) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
+2. 🗣 Commented on [#1620](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/1620) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
+3. 🗣 Commented on [#3546](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/3546) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
+4. 🗣 Commented on [#3547](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/3547) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
+5. 🗣 Commented on [#3548](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/3548) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
   <!--END_SECTION:activity-->
 </details>
 <details>
