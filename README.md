@@ -4,8 +4,7 @@
 - 🔭 I’m currently working on [SGNearMe, a location-based telegram bot](https://github.com/JinHao-L/SGNearby)
 - 🌱 I’m currently learning software engineering techniques and github
 - 👯 I’m looking to collaborate on a open source/commercial project
-- 🥅 2020 Goals: Learn to do cool stuff on GitHub and contribute to Open Source projects
-- 😄 Pronouns: He/His
+- 🥅 2021 Goals: Contribute more to Open Source projects, learn about web backend development
 
 ### Connect with me:
 <!-- [<img align="left" alt="<my website>.com" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
