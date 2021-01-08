@@ -49,11 +49,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/JinHao-L/HelloWorld/pull/3) in [JinHao-L/HelloWorld](https://github.com/JinHao-L/HelloWorld)
-2. 💪 Opened PR [#3](https://github.com/JinHao-L/HelloWorld/pull/3) in [JinHao-L/HelloWorld](https://github.com/JinHao-L/HelloWorld)
-3. 💪 Opened PR [#5](https://github.com/HelloWorldHnR/HelloWorld/pull/5) in [HelloWorldHnR/HelloWorld](https://github.com/HelloWorldHnR/HelloWorld)
-4. 🎉 Merged PR [#2](https://github.com/JinHao-L/HelloWorld/pull/2) in [JinHao-L/HelloWorld](https://github.com/JinHao-L/HelloWorld)
-5. 💪 Opened PR [#2](https://github.com/JinHao-L/HelloWorld/pull/2) in [JinHao-L/HelloWorld](https://github.com/JinHao-L/HelloWorld)
+1. 💪 Opened PR [#4](https://github.com/JinHao-L/HelloWorld/pull/4) in [JinHao-L/HelloWorld](https://github.com/JinHao-L/HelloWorld)
+2. 🎉 Merged PR [#3](https://github.com/JinHao-L/HelloWorld/pull/3) in [JinHao-L/HelloWorld](https://github.com/JinHao-L/HelloWorld)
+3. 💪 Opened PR [#3](https://github.com/JinHao-L/HelloWorld/pull/3) in [JinHao-L/HelloWorld](https://github.com/JinHao-L/HelloWorld)
+4. 💪 Opened PR [#5](https://github.com/HelloWorldHnR/HelloWorld/pull/5) in [HelloWorldHnR/HelloWorld](https://github.com/HelloWorldHnR/HelloWorld)
+5. 🎉 Merged PR [#2](https://github.com/JinHao-L/HelloWorld/pull/2) in [JinHao-L/HelloWorld](https://github.com/JinHao-L/HelloWorld)
   <!--END_SECTION:activity-->
 </details>
 <details>
