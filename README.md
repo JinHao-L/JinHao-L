@@ -49,11 +49,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1614](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/1614) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
-2. 🗣 Commented on [#1616](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/1616) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
-3. 🗣 Commented on [#1619](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/1619) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
-4. 🗣 Commented on [#1628](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/1628) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
-5. 🗣 Commented on [#1629](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/1629) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
+1. 🎉 Merged PR [#1](https://github.com/JinHao-L/HelloWorld/pull/1) in [JinHao-L/HelloWorld](https://github.com/JinHao-L/HelloWorld)
+2. 💪 Opened PR [#1](https://github.com/JinHao-L/HelloWorld/pull/1) in [JinHao-L/HelloWorld](https://github.com/JinHao-L/HelloWorld)
+3. 🗣 Commented on [#1614](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/1614) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
+4. 🗣 Commented on [#1616](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/1616) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
+5. 🗣 Commented on [#1619](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/1619) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
   <!--END_SECTION:activity-->
 </details>
 <details>
