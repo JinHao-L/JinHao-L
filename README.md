@@ -49,11 +49,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/JinHao-L/HelloWorld/pull/1) in [JinHao-L/HelloWorld](https://github.com/JinHao-L/HelloWorld)
-2. 💪 Opened PR [#1](https://github.com/JinHao-L/HelloWorld/pull/1) in [JinHao-L/HelloWorld](https://github.com/JinHao-L/HelloWorld)
-3. 🗣 Commented on [#1614](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/1614) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
-4. 🗣 Commented on [#1616](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/1616) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
-5. 🗣 Commented on [#1619](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/1619) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
+1. 🎉 Merged PR [#2](https://github.com/JinHao-L/HelloWorld/pull/2) in [JinHao-L/HelloWorld](https://github.com/JinHao-L/HelloWorld)
+2. 💪 Opened PR [#2](https://github.com/JinHao-L/HelloWorld/pull/2) in [JinHao-L/HelloWorld](https://github.com/JinHao-L/HelloWorld)
+3. 🎉 Merged PR [#1](https://github.com/JinHao-L/HelloWorld/pull/1) in [JinHao-L/HelloWorld](https://github.com/JinHao-L/HelloWorld)
+4. 💪 Opened PR [#1](https://github.com/JinHao-L/HelloWorld/pull/1) in [JinHao-L/HelloWorld](https://github.com/JinHao-L/HelloWorld)
+5. 🗣 Commented on [#1614](https://github.com/nus-cs2103-AY2021S1/pe-dev-response/issues/1614) in [nus-cs2103-AY2021S1/pe-dev-response](https://github.com/nus-cs2103-AY2021S1/pe-dev-response)
   <!--END_SECTION:activity-->
 </details>
 <details>
