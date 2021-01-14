@@ -1,8 +1,8 @@
 ### Hi there, I'm Jin Hao 👋
 
 ### I'm a 2nd year Computer Science student in NUS!
-- 🔭 I’m currently working on [SGNearMe, a location-based telegram bot](https://github.com/JinHao-L/SGNearby)
-- 🌱 I’m currently learning software engineering techniques and github
+- 🔭 I’m currently working on [Hello World, a location-based live chat web application](https://github.com/JinHao-L/HelloWorld)
+- 🌱 I’m currently learning about databases and information security practices.
 - 👯 I’m looking to collaborate on a open source/commercial project
 - 🥅 2021 Goals: Contribute more to Open Source projects, learn about web backend development
 
