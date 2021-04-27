@@ -49,11 +49,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/JinHao-L/addressbook-level3/pull/1) in [JinHao-L/addressbook-level3](https://github.com/JinHao-L/addressbook-level3)
-2. 💪 Opened PR [#1](https://github.com/JinHao-L/addressbook-level3/pull/1) in [JinHao-L/addressbook-level3](https://github.com/JinHao-L/addressbook-level3)
-3. 💪 Opened PR [#97](https://github.com/se-edu/addressbook-level3/pull/97) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
-4. 💪 Opened PR [#88](https://github.com/se-edu/addressbook-level3/pull/88) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
-5. 🎉 Merged PR [#210](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/210) in [AY2021S1-CS2103T-T12-4/tp](https://github.com/AY2021S1-CS2103T-T12-4/tp)
+1. 🎉 Merged PR [#7](https://github.com/JinHao-L/tembu-friends/pull/7) in [JinHao-L/tembu-friends](https://github.com/JinHao-L/tembu-friends)
+2. 🎉 Merged PR [#1](https://github.com/JinHao-L/addressbook-level3/pull/1) in [JinHao-L/addressbook-level3](https://github.com/JinHao-L/addressbook-level3)
+3. 💪 Opened PR [#1](https://github.com/JinHao-L/addressbook-level3/pull/1) in [JinHao-L/addressbook-level3](https://github.com/JinHao-L/addressbook-level3)
+4. 💪 Opened PR [#97](https://github.com/se-edu/addressbook-level3/pull/97) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
+5. 💪 Opened PR [#88](https://github.com/se-edu/addressbook-level3/pull/88) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
   <!--END_SECTION:activity-->
 </details>
 <details>
