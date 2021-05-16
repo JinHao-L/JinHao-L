@@ -49,11 +49,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/JinHao-L/tembu-friends/pull/9) in [JinHao-L/tembu-friends](https://github.com/JinHao-L/tembu-friends)
-2. 🎉 Merged PR [#22](https://github.com/EcommercePWA/Frontend/pull/22) in [EcommercePWA/Frontend](https://github.com/EcommercePWA/Frontend)
-3. ❗️ Closed issue [#1](https://github.com/EcommercePWA/Frontend/issues/1) in [EcommercePWA/Frontend](https://github.com/EcommercePWA/Frontend)
-4. ❗️ Closed issue [#3](https://github.com/EcommercePWA/Frontend/issues/3) in [EcommercePWA/Frontend](https://github.com/EcommercePWA/Frontend)
-5. 💪 Opened PR [#22](https://github.com/EcommercePWA/Frontend/pull/22) in [EcommercePWA/Frontend](https://github.com/EcommercePWA/Frontend)
+1. 💪 Opened PR [#26](https://github.com/EcommercePWA/Frontend/pull/26) in [EcommercePWA/Frontend](https://github.com/EcommercePWA/Frontend)
+2. 🎉 Merged PR [#9](https://github.com/JinHao-L/tembu-friends/pull/9) in [JinHao-L/tembu-friends](https://github.com/JinHao-L/tembu-friends)
+3. 🎉 Merged PR [#22](https://github.com/EcommercePWA/Frontend/pull/22) in [EcommercePWA/Frontend](https://github.com/EcommercePWA/Frontend)
+4. ❗️ Closed issue [#1](https://github.com/EcommercePWA/Frontend/issues/1) in [EcommercePWA/Frontend](https://github.com/EcommercePWA/Frontend)
+5. ❗️ Closed issue [#3](https://github.com/EcommercePWA/Frontend/issues/3) in [EcommercePWA/Frontend](https://github.com/EcommercePWA/Frontend)
   <!--END_SECTION:activity-->
 </details>
 <details>
