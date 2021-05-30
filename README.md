@@ -49,11 +49,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/EcommercePWA/Frontend/pull/30) in [EcommercePWA/Frontend](https://github.com/EcommercePWA/Frontend)
-2. ❗️ Closed issue [#13](https://github.com/EcommercePWA/Frontend/issues/13) in [EcommercePWA/Frontend](https://github.com/EcommercePWA/Frontend)
-3. ❗️ Closed issue [#10](https://github.com/EcommercePWA/Frontend/issues/10) in [EcommercePWA/Frontend](https://github.com/EcommercePWA/Frontend)
-4. 🎉 Merged PR [#27](https://github.com/EcommercePWA/Frontend/pull/27) in [EcommercePWA/Frontend](https://github.com/EcommercePWA/Frontend)
-5. ❗️ Closed issue [#2](https://github.com/EcommercePWA/Frontend/issues/2) in [EcommercePWA/Frontend](https://github.com/EcommercePWA/Frontend)
+1. 💪 Opened PR [#31](https://github.com/EcommercePWA/Frontend/pull/31) in [EcommercePWA/Frontend](https://github.com/EcommercePWA/Frontend)
+2. 🎉 Merged PR [#30](https://github.com/EcommercePWA/Frontend/pull/30) in [EcommercePWA/Frontend](https://github.com/EcommercePWA/Frontend)
+3. ❗️ Closed issue [#13](https://github.com/EcommercePWA/Frontend/issues/13) in [EcommercePWA/Frontend](https://github.com/EcommercePWA/Frontend)
+4. ❗️ Closed issue [#10](https://github.com/EcommercePWA/Frontend/issues/10) in [EcommercePWA/Frontend](https://github.com/EcommercePWA/Frontend)
+5. 🎉 Merged PR [#27](https://github.com/EcommercePWA/Frontend/pull/27) in [EcommercePWA/Frontend](https://github.com/EcommercePWA/Frontend)
   <!--END_SECTION:activity-->
 </details>
 <details>
