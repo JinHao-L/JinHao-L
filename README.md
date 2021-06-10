@@ -1,7 +1,7 @@
 ### Hi there, I'm Jin Hao 👋
 
 ### I'm a 2nd year Computer Science student in NUS!
-- 🔭 I’m currently working at [BOLT Global](https://bolt.global/)
+- 🔭 I’m currently working as an intern at [BOLT Global](https://bolt.global/), check out our Bolt+ and Bolt X apps
 - 🌱 I’m currently learning about blockchains and its implementation.
 - 👯 I’m looking to collaborate on a open source/commercial project
 - 🥅 2021 Goals: Contribute more to Open Source projects, learn about web backend development
