@@ -49,11 +49,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](https://github.com/EcommercePWA/Frontend/pull/34) in [EcommercePWA/Frontend](https://github.com/EcommercePWA/Frontend)
-2. 🎉 Merged PR [#32](https://github.com/EcommercePWA/Frontend/pull/32) in [EcommercePWA/Frontend](https://github.com/EcommercePWA/Frontend)
-3. 💪 Opened PR [#177](https://github.com/ammarahm-ed/react-native-admob-native-ads/pull/177) in [ammarahm-ed/react-native-admob-native-ads](https://github.com/ammarahm-ed/react-native-admob-native-ads)
-4. 💪 Opened PR [#31](https://github.com/EcommercePWA/Frontend/pull/31) in [EcommercePWA/Frontend](https://github.com/EcommercePWA/Frontend)
-5. 🎉 Merged PR [#30](https://github.com/EcommercePWA/Frontend/pull/30) in [EcommercePWA/Frontend](https://github.com/EcommercePWA/Frontend)
+1. 💪 Opened PR [#304](https://github.com/Web3Modal/web3modal/pull/304) in [Web3Modal/web3modal](https://github.com/Web3Modal/web3modal)
+2. 💪 Opened PR [#34](https://github.com/EcommercePWA/Frontend/pull/34) in [EcommercePWA/Frontend](https://github.com/EcommercePWA/Frontend)
+3. 🎉 Merged PR [#32](https://github.com/EcommercePWA/Frontend/pull/32) in [EcommercePWA/Frontend](https://github.com/EcommercePWA/Frontend)
+4. 💪 Opened PR [#177](https://github.com/ammarahm-ed/react-native-admob-native-ads/pull/177) in [ammarahm-ed/react-native-admob-native-ads](https://github.com/ammarahm-ed/react-native-admob-native-ads)
+5. 💪 Opened PR [#31](https://github.com/EcommercePWA/Frontend/pull/31) in [EcommercePWA/Frontend](https://github.com/EcommercePWA/Frontend)
   <!--END_SECTION:activity-->
 </details>
 <details>
