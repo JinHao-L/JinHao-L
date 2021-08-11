@@ -1,8 +1,9 @@
 ### Hi there, I'm Jin Hao 👋
 
 ### I'm a 3rd year Computer Science student in NUS!
-- 🔭 I’m currently working as an intern at [BOLT Global](https://bolt.global/), check out our Bolt+ and Bolt X apps
-- 🌱 I’m currently learning about blockchains and its implementation.
+- 🔭 I’m currently studying about Web Development, UI/UX and Cyber Security in NUS
+- 🌱 I’m also expanding my knowledge on Cryptocurrency, blockchains and its implementation.
+- 💼 Recently worked as an intern at [BOLT Global](https://bolt.global/), where I helped built a Cryptocurrency Wallet Extension on Google Chrome
 - 👯 I’m looking to collaborate on a open source/commercial project
 - 🥅 2021 Goals: Contribute more to Open Source projects, learn about web backend development
 
@@ -21,13 +22,17 @@
 
 [<img align="left" alt="IntelliJ Idea" width="30px" src="https://www.jetbrains.com/idea/img/idea-edu.svg" />](https://github.com/topics/intellij-idea)
 
-[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://github.com/topics/html5)
-
-<!-- [<img align="left" alt="CSS3" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />](https://github.com/topics/css3) -->
-
 [<img align="left" alt="React Native" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />](https://github.com/topics/react-native)
 
+[<img align="left" alt="Node" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://github.com/topics/node)
+
+[<img align="left" alt="Express" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />](https://github.com/topics/express)
+
 [<img align="left" alt="Firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />](https://github.com/topics/firebase)
+
+[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://github.com/topics/html5)
+
+[<img align="left" alt="CSS3" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />](https://github.com/topics/css3)
 
 [<img align="left" alt="Expo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/expo.svg" />](https://github.com/topics/expo)
 
