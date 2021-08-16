@@ -35,7 +35,7 @@
 
 <!-- [<img align="left" alt="CSS3" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />](https://github.com/topics/css3) -->
 
-[<img align="left" alt="Expo" height="32px" width="32px" src="https://camo.githubusercontent.com/ff4303ed430529cef9878927539b916a7b5eef7053238c74dccf6c89a355867d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6578706f2e737667" />](https://github.com/topics/expo)
+[<img align="left" alt="Expo" height="32px" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/expo.svg" />](https://github.com/topics/expo)
 
 <!-- [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://github.com/topics/javascript) -->
 
