@@ -1,9 +1,9 @@
-### Hi there, I'm Jin Hao 👋
+# Hi there, I'm Jin Hao <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ### I'm a 3rd year Computer Science student in NUS!
-- 🔭 I’m currently studying about Web Development, UI/UX and Cyber Security in NUS
+- 🔭 I’m currently studying about web development, UI/UX and cyber security in NUS
 - 🌱 I’m also expanding my knowledge on Cryptocurrency, blockchains and its implementation.
-- 💼 Recently worked as an intern at [BOLT Global](https://bolt.global/), where I helped built a Cryptocurrency Wallet Extension on Google Chrome
+- 💼 Recently interned at [BOLT Global](https://bolt.global/), where I built a Cryptocurrency Wallet Extension on Google Chrome
 - 👯 I’m looking to collaborate on a open source/commercial project
 - 🥅 2021 Goals: Contribute more to Open Source projects, learn about web backend development
 
@@ -11,8 +11,9 @@
 <!-- [<img align="left" alt="<my website>.com" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="JinHao-L | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="JinHao-L | Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="JinHao-L | Email Me" src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][email] 
 <!-- [<img align="left" alt="JinHao-L | Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium] -->
-[<img align="left" alt="JinHao-L | GitHub" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" />][github]
+<!-- [<img align="left" alt="JinHao-L | GitHub" src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />][github] -->
 
 <br/>
 
@@ -72,3 +73,4 @@
 [instagram]: https://www.instagram.com/jin_haooo/
 [linkedin]: https://www.linkedin.com/in/jin-hao-l/
 [github]: https://github.com/JinHao-L
+[email]: mailto:limjinhao@gmail.com
