@@ -54,11 +54,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. ⭐ Starred [pittcsc/Summer2022-Internships](https://github.com/pittcsc/Summer2022-Internships)
-2. 🔨 Created new Branch in [JinHao-L/CTF-Archives](https://github.com/JinHao-L/CTF-Archives)
-3. 🌱 Created new Repository in [JinHao-L/CTF-Archives](https://github.com/JinHao-L/CTF-Archives)
-4. ⭐ Starred [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
-5. 🔱 Forked [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) to [JinHao-L/github-activity-readme](https://github.com/JinHao-L/github-activity-readme)
+1. 🗣 Commented on [#105](https://github.com/se-edu/addressbook-level3/issues/105) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
+2. ⭐ Starred [pittcsc/Summer2022-Internships](https://github.com/pittcsc/Summer2022-Internships)
+3. 🔨 Created new Branch in [JinHao-L/CTF-Archives](https://github.com/JinHao-L/CTF-Archives)
+4. 🌱 Created new Repository in [JinHao-L/CTF-Archives](https://github.com/JinHao-L/CTF-Archives)
+5. ⭐ Starred [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
   <!--END_SECTION:activity-->
 </details>
 <details>
