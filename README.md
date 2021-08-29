@@ -57,8 +57,8 @@
 1. 🔱 Forked [resumejob/awesome-resume](https://github.com/resumejob/awesome-resume) to [JinHao-L/awesome-resume](https://github.com/JinHao-L/awesome-resume)
 2. ⭐ Starred [resumejob/awesome-resume](https://github.com/resumejob/awesome-resume)
 3. ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)
-4. 🔨 Created new Branch in [JinHao-L/docker-n-kubernetes](https://github.com/JinHao-L/docker-n-kubernetes)
-5. 🌱 Created new Repository in [JinHao-L/docker-n-kubernetes](https://github.com/JinHao-L/docker-n-kubernetes)
+4. ⭐ Starred [NUSGreyhats/welcome-ctf-2021](https://github.com/NUSGreyhats/welcome-ctf-2021)
+5. 🗣 Commented on [#105](https://github.com/se-edu/addressbook-level3/issues/105) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
   <!--END_SECTION:activity-->
 </details>
 <details>
