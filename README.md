@@ -54,11 +54,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🔱 Forked [resumejob/awesome-resume](https://github.com/resumejob/awesome-resume) to [JinHao-L/awesome-resume](https://github.com/JinHao-L/awesome-resume)
-2. ⭐ Starred [resumejob/awesome-resume](https://github.com/resumejob/awesome-resume)
-3. ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)
-4. ⭐ Starred [NUSGreyhats/welcome-ctf-2021](https://github.com/NUSGreyhats/welcome-ctf-2021)
-5. 🗣 Commented on [#105](https://github.com/se-edu/addressbook-level3/issues/105) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
+1. 🗣 Commented on [#92](https://github.com/se-edu/addressbook-level3/issues/92) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
+2. 🗣 Commented on [#109](https://github.com/se-edu/addressbook-level3/issues/109) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
+3. 🔱 Forked [resumejob/awesome-resume](https://github.com/resumejob/awesome-resume) to [JinHao-L/awesome-resume](https://github.com/JinHao-L/awesome-resume)
+4. ⭐ Starred [resumejob/awesome-resume](https://github.com/resumejob/awesome-resume)
+5. ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)
   <!--END_SECTION:activity-->
 </details>
 <details>
