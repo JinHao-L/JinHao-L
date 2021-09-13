@@ -54,11 +54,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🔱 Forked [jamescooke/restapidocs](https://github.com/jamescooke/restapidocs) to [JinHao-L/restapidocs](https://github.com/JinHao-L/restapidocs)
-2. 🗣 Commented on [#92](https://github.com/se-edu/addressbook-level3/issues/92) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
-3. 🗣 Commented on [#109](https://github.com/se-edu/addressbook-level3/issues/109) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
-4. 🔱 Forked [resumejob/awesome-resume](https://github.com/resumejob/awesome-resume) to [JinHao-L/awesome-resume](https://github.com/JinHao-L/awesome-resume)
-5. ⭐ Starred [resumejob/awesome-resume](https://github.com/resumejob/awesome-resume)
+1. 🗣 Commented on [#108](https://github.com/se-edu/addressbook-level3/issues/108) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
+2. 🔱 Forked [jamescooke/restapidocs](https://github.com/jamescooke/restapidocs) to [JinHao-L/restapidocs](https://github.com/JinHao-L/restapidocs)
+3. 🗣 Commented on [#92](https://github.com/se-edu/addressbook-level3/issues/92) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
+4. 🗣 Commented on [#109](https://github.com/se-edu/addressbook-level3/issues/109) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
+5. 🔱 Forked [resumejob/awesome-resume](https://github.com/resumejob/awesome-resume) to [JinHao-L/awesome-resume](https://github.com/JinHao-L/awesome-resume)
   <!--END_SECTION:activity-->
 </details>
 <details>
