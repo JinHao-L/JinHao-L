@@ -3,7 +3,7 @@
 ### I'm a 3rd year Computer Science student in NUS!
 - 🔭 I’m currently studying about web development, UI/UX and cyber security in NUS
 - 🌱 I’m also expanding my knowledge on Cryptocurrency, blockchains and its implementation.
-- 💼 Recently interned at [BOLT Global](https://bolt.global/), where I built a Cryptocurrency Wallet Extension on Google Chrome
+- 💼 Recently interned at [BOLT Global](https://bolt.global/), where I built a [Cryptocurrency Wallet Extension](https://www.boltx.app/) on Google Chrome
 - 👯 I’m looking to collaborate on a open source/commercial project
 - 🥅 2021 Goals: Contribute more to Open Source projects, learn about web backend development
 
