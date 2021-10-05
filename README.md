@@ -54,11 +54,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#108](https://github.com/se-edu/addressbook-level3/issues/108) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
-2. 🔱 Forked [jamescooke/restapidocs](https://github.com/jamescooke/restapidocs) to [JinHao-L/restapidocs](https://github.com/JinHao-L/restapidocs)
-3. 🗣 Commented on [#92](https://github.com/se-edu/addressbook-level3/issues/92) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
-4. 🗣 Commented on [#109](https://github.com/se-edu/addressbook-level3/issues/109) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
-5. 🔱 Forked [resumejob/awesome-resume](https://github.com/resumejob/awesome-resume) to [JinHao-L/awesome-resume](https://github.com/JinHao-L/awesome-resume)
+1. 🎉 Merged PR [#1](https://github.com/CS3216-Meetballs/meetballs-back/pull/1) in [CS3216-Meetballs/meetballs-back](https://github.com/CS3216-Meetballs/meetballs-back)
+2. 💪 Opened PR [#1](https://github.com/CS3216-Meetballs/meetballs-back/pull/1) in [CS3216-Meetballs/meetballs-back](https://github.com/CS3216-Meetballs/meetballs-back)
+3. 🗣 Commented on [#108](https://github.com/se-edu/addressbook-level3/issues/108) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
+4. 🔱 Forked [jamescooke/restapidocs](https://github.com/jamescooke/restapidocs) to [JinHao-L/restapidocs](https://github.com/JinHao-L/restapidocs)
+5. 🗣 Commented on [#92](https://github.com/se-edu/addressbook-level3/issues/92) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
   <!--END_SECTION:activity-->
 </details>
 <details>
