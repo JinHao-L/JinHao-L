@@ -54,11 +54,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#108](https://github.com/CS3216-Meetballs/meetballs-front/pull/108) in [CS3216-Meetballs/meetballs-front](https://github.com/CS3216-Meetballs/meetballs-front)
-2. 🎉 Merged PR [#75](https://github.com/CS3216-Meetballs/meetballs-back/pull/75) in [CS3216-Meetballs/meetballs-back](https://github.com/CS3216-Meetballs/meetballs-back)
-3. 💪 Opened PR [#108](https://github.com/CS3216-Meetballs/meetballs-front/pull/108) in [CS3216-Meetballs/meetballs-front](https://github.com/CS3216-Meetballs/meetballs-front)
-4. 💪 Opened PR [#75](https://github.com/CS3216-Meetballs/meetballs-back/pull/75) in [CS3216-Meetballs/meetballs-back](https://github.com/CS3216-Meetballs/meetballs-back)
-5. 🎉 Merged PR [#106](https://github.com/CS3216-Meetballs/meetballs-front/pull/106) in [CS3216-Meetballs/meetballs-front](https://github.com/CS3216-Meetballs/meetballs-front)
+1. 🎉 Merged PR [#103](https://github.com/CS3216-Meetballs/meetballs-front/pull/103) in [CS3216-Meetballs/meetballs-front](https://github.com/CS3216-Meetballs/meetballs-front)
+2. 🎉 Merged PR [#73](https://github.com/CS3216-Meetballs/meetballs-back/pull/73) in [CS3216-Meetballs/meetballs-back](https://github.com/CS3216-Meetballs/meetballs-back)
+3. 🎉 Merged PR [#108](https://github.com/CS3216-Meetballs/meetballs-front/pull/108) in [CS3216-Meetballs/meetballs-front](https://github.com/CS3216-Meetballs/meetballs-front)
+4. 🎉 Merged PR [#75](https://github.com/CS3216-Meetballs/meetballs-back/pull/75) in [CS3216-Meetballs/meetballs-back](https://github.com/CS3216-Meetballs/meetballs-back)
+5. 💪 Opened PR [#108](https://github.com/CS3216-Meetballs/meetballs-front/pull/108) in [CS3216-Meetballs/meetballs-front](https://github.com/CS3216-Meetballs/meetballs-front)
   <!--END_SECTION:activity-->
 </details>
 <details>
