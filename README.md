@@ -54,11 +54,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38/pull/30) in [CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38)
-2. 🎉 Merged PR [#103](https://github.com/CS3216-Meetballs/meetballs-front/pull/103) in [CS3216-Meetballs/meetballs-front](https://github.com/CS3216-Meetballs/meetballs-front)
-3. 🎉 Merged PR [#73](https://github.com/CS3216-Meetballs/meetballs-back/pull/73) in [CS3216-Meetballs/meetballs-back](https://github.com/CS3216-Meetballs/meetballs-back)
-4. 🎉 Merged PR [#108](https://github.com/CS3216-Meetballs/meetballs-front/pull/108) in [CS3216-Meetballs/meetballs-front](https://github.com/CS3216-Meetballs/meetballs-front)
-5. 🎉 Merged PR [#75](https://github.com/CS3216-Meetballs/meetballs-back/pull/75) in [CS3216-Meetballs/meetballs-back](https://github.com/CS3216-Meetballs/meetballs-back)
+1. 🎉 Merged PR [#32](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38/pull/32) in [CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38)
+2. 🎉 Merged PR [#31](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38/pull/31) in [CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38)
+3. 💪 Opened PR [#32](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38/pull/32) in [CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38)
+4. 🎉 Merged PR [#30](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38/pull/30) in [CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38)
+5. 🎉 Merged PR [#103](https://github.com/CS3216-Meetballs/meetballs-front/pull/103) in [CS3216-Meetballs/meetballs-front](https://github.com/CS3216-Meetballs/meetballs-front)
   <!--END_SECTION:activity-->
 </details>
 <details>
