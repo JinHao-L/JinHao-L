@@ -54,11 +54,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38/pull/41) in [CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38)
-2. 🎉 Merged PR [#39](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38/pull/39) in [CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38)
-3. 🎉 Merged PR [#40](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38/pull/40) in [CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38)
-4. 💪 Opened PR [#37](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38/pull/37) in [CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38)
-5. 💪 Opened PR [#36](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38/pull/36) in [CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38)
+1. 💪 Opened PR [#42](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38/pull/42) in [CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38)
+2. 🎉 Merged PR [#41](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38/pull/41) in [CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38)
+3. 🎉 Merged PR [#39](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38/pull/39) in [CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38)
+4. 🎉 Merged PR [#40](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38/pull/40) in [CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38)
+5. 💪 Opened PR [#37](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38/pull/37) in [CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38)
   <!--END_SECTION:activity-->
 </details>
 <details>
