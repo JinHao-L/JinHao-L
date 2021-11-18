@@ -8,7 +8,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects, learn about web backend development
 
 ### Connect with me:
-<!-- [<img align="left" alt="<my website>.com" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+[<img align="left" alt="<my website>.com" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="JinHao-L | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="JinHao-L | Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" alt="JinHao-L | Email Me" src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][email] 
@@ -74,3 +74,5 @@
 [linkedin]: https://www.linkedin.com/in/jin-hao-l/
 [github]: https://github.com/JinHao-L
 [email]: mailto:limjinhao@gmail.com
+[website]:https://jinhao-l.github.io/portfolio/
+
