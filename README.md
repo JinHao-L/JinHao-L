@@ -8,7 +8,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects, learn about web backend development
 
 ### Connect with me:
-[<img align="left" alt="<my website>.com" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://jinhao-l.github.io/portfolio" src="https://img.shields.io/badge/portfolio-%23DD0B78.svg?&style=for-the-badge&logo=starship&logoColor=white" />][website]
 [<img align="left" alt="JinHao-L | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="JinHao-L | Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" alt="JinHao-L | Email Me" src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][email] 
@@ -27,7 +27,7 @@
 
 [<img align="left" alt="Node" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://github.com/topics/node)
 
-[<img align="left" alt="Express" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />](https://github.com/topics/express)
+[<img align="left" alt="Express" width="30px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />](https://github.com/topics/express)
 
 [<img align="left" alt="Firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />](https://github.com/topics/firebase)
 
@@ -37,13 +37,21 @@
 
 [<img align="left" alt="Expo" height="32px" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/expo.svg" />](https://github.com/topics/expo)
 
+[<img align="left" alt="NestJS" height="32px" width="32px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" />](https://nestjs.com/)
+
+[<img align="left" alt="Kubernetes" height="32px" width="32px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />](https://kubernetes.io/)
+
+[<img align="left" alt="Docker" height="32px" width="32px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />](https://www.docker.com/)
+
 <!-- [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://github.com/topics/javascript) -->
 
 [<img align="left" alt="Java" src="https://img.icons8.com/color/32/000000/java-coffee-cup-logo--v1.png" />](https://github.com/topics/java)
 
 [<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://github.com/topics/python)
 
-[<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://github.com/topics/git)
+[<img align="left" alt="Git" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />](https://github.com/topics/git)
+
+[<img align="left" alt="Vim" width="30px" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" />](https://www.vim.org/)
 
 <!-- [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/topics/github) -->
 
