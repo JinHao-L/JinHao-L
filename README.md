@@ -62,9 +62,9 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#118](https://github.com/se-edu/addressbook-level3/issues/118) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
-2. 💪 Opened PR [#118](https://github.com/se-edu/addressbook-level3/pull/118) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
-3. 🔱 Forked [QasimWani/LeetHub](https://github.com/QasimWani/LeetHub) to [JinHao-L/LeetHub](https://github.com/JinHao-L/LeetHub)
+1. ⭐ Starred [abeluck/stegdetect](https://github.com/abeluck/stegdetect)
+2. 🗣 Commented on [#118](https://github.com/se-edu/addressbook-level3/issues/118) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
+3. 💪 Opened PR [#118](https://github.com/se-edu/addressbook-level3/pull/118) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
 4. ⭐ Starred [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio)
 5. 🔱 Forked [CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38) to [JinHao-L/cs3219-project-ay2122-2122-s1-g38](https://github.com/JinHao-L/cs3219-project-ay2122-2122-s1-g38)
   <!--END_SECTION:activity-->
