@@ -82,5 +82,5 @@
 [linkedin]: https://www.linkedin.com/in/jin-hao-l/
 [github]: https://github.com/JinHao-L
 [email]: mailto:limjinhao@gmail.com
-[website]:https://jinhao-l.github.io/portfolio/
+[website]:https://jinhao-l.me/
 
