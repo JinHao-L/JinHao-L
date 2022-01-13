@@ -72,9 +72,15 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-  <img align="left" alt="JinHao-L's Github Stats" src="https://github-readme-stats-jinhao-l.vercel.app/api?username=jinhao-l&show_icons=true&hide_border=true&theme=buefy&count_private=true" />
+  [![JinHao-L's Github Stats](https://github-readme-stats-jinhao-l.vercel.app/api?username=jinhao-l&show_icons=true&hide_border=true&theme=ayu-mirage&count_private=true)](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
+  [![Top Langs](https://github-readme-stats-git-master.jinhao-l.vercel.app/api/top-langs/?username=jinhao-l&count_private=true&layout=compact&hide_border=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
 
-  <!-- ![Top Langs](https://github-readme-stats-git-master.jinhao-l.vercel.app/api/top-langs/?username=jinhao-l&count_private=true&layout=compact) -->
+</details>
+<details>
+  <summary>:zap: My Trophies</summary>
+  
+  [![JinHao-L's Trophy](https://github-profile-trophy.vercel.app/?username=jinhao-l&no-frame=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 </details>
 
 <!-- [website]: <my website> -->
