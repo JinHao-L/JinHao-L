@@ -62,11 +62,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#120](https://github.com/se-edu/addressbook-level3/issues/120) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
-2. ⭐ Starred [abeluck/stegdetect](https://github.com/abeluck/stegdetect)
-3. 🗣 Commented on [#118](https://github.com/se-edu/addressbook-level3/issues/118) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
-4. 💪 Opened PR [#118](https://github.com/se-edu/addressbook-level3/pull/118) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
-5. 🔱 Forked [CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38](https://github.com/CS3219-SE-Principles-and-Patterns/cs3219-project-ay2122-2122-s1-g38) to [JinHao-L/cs3219-project-ay2122-2122-s1-g38](https://github.com/JinHao-L/cs3219-project-ay2122-2122-s1-g38)
+1. ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)
+2. 🗣 Commented on [#120](https://github.com/se-edu/addressbook-level3/issues/120) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
+3. ⭐ Starred [abeluck/stegdetect](https://github.com/abeluck/stegdetect)
+4. 🗣 Commented on [#118](https://github.com/se-edu/addressbook-level3/issues/118) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
+5. 💪 Opened PR [#118](https://github.com/se-edu/addressbook-level3/pull/118) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
   <!--END_SECTION:activity-->
 </details>
 <details>
