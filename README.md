@@ -97,8 +97,8 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)
-2. 🗣 Commented on [#120](https://github.com/se-edu/addressbook-level3/issues/120) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
+1. ⭐ Starred [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
+2. ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)
 3. ⭐ Starred [abeluck/stegdetect](https://github.com/abeluck/stegdetect)
 4. 🗣 Commented on [#118](https://github.com/se-edu/addressbook-level3/issues/118) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
 5. 💪 Opened PR [#118](https://github.com/se-edu/addressbook-level3/pull/118) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
