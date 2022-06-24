@@ -1,11 +1,12 @@
-# Hi there, I'm Jin Hao <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  
+# Hi there, I'm Jin Hao <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">  
 
 ### I'm a 3rd year Computer Science student in NUS!  
 - 🔭 I’m currently studying about web development, UI/UX and cyber security in NUS
 - 🌱 I’m also expanding my knowledge on Cryptocurrency, blockchains and its implementation.
-- 💼 Recently interned at [BOLT Global](https://bolt.global/), where I built a [Cryptocurrency Wallet Extension](https://chrome.google.com/webstore/detail/bolt-x/aodkkagnadcbobfpggfnjeongemjbjca) on Chromium browsers
+- 💼 Interning at [SEA Group](https://bolt.global/) as a Frontend Engineer
+- 💼 Interned at [BOLT Global](https://bolt.global/), where I built a [Cryptocurrency Wallet Extension](https://chrome.google.com/webstore/detail/bolt-x/aodkkagnadcbobfpggfnjeongemjbjca) on Chromium browsers
 - 👯 I’m looking to collaborate on a open source/commercial project
-- 🥅 2021 Goals: Contribute more to Open Source projects, learn about web backend development  
+- 🥅 2022 Goals: Contribute more to Open Source projects, learn about web backend development  
 
 ### Connect with me:  
 [<img align="left" alt="https://jinhao-l.github.io/portfolio" src="https://img.shields.io/badge/portfolio-%23DD0B78.svg?&style=for-the-badge&logo=starship&logoColor=white" />][website]
