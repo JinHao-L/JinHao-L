@@ -98,9 +98,9 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. ⭐ Starred [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
-2. ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)
-3. ⭐ Starred [abeluck/stegdetect](https://github.com/abeluck/stegdetect)
+1. 💪 Opened PR [#40](https://github.com/JinHao-L/tembu-friends/pull/40) in [JinHao-L/tembu-friends](https://github.com/JinHao-L/tembu-friends)
+2. 🔱 Forked [aws/secrets-store-csi-driver-provider-aws](https://github.com/aws/secrets-store-csi-driver-provider-aws) to [JinHao-L/secrets-store-csi-driver-provider-aws](https://github.com/JinHao-L/secrets-store-csi-driver-provider-aws)
+3. ⭐ Starred [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
 4. 🗣 Commented on [#118](https://github.com/se-edu/addressbook-level3/issues/118) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
 5. 💪 Opened PR [#118](https://github.com/se-edu/addressbook-level3/pull/118) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
   <!--END_SECTION:activity-->
