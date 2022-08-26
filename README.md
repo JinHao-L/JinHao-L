@@ -1,12 +1,12 @@
 # Hi there, I'm Jin Hao <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">  
 
-### I'm a 3rd year Computer Science student in NUS!  
+### I'm a final year Computer Science student in NUS!  
 - 🔭 I’m currently studying about web development, UI/UX and cyber security in NUS
-- 🌱 I’m also expanding my knowledge on Cryptocurrency, blockchains and its implementation.
-- 💼 Interning at [SEA Group](https://bolt.global/) as a Frontend Engineer
+- 🌱 I’m also expanding my knowledge on Cloud computing and blockchain technology.
+- 💼 Interned at [SEA Group](https://bolt.global/) as a Frontend Engineer
 - 💼 Interned at [BOLT Global](https://bolt.global/), where I built a [Cryptocurrency Wallet Extension](https://chrome.google.com/webstore/detail/bolt-x/aodkkagnadcbobfpggfnjeongemjbjca) on Chromium browsers
 - 👯 I’m looking to collaborate on a open source/commercial project
-- 🥅 2022 Goals: Contribute more to Open Source projects, learn about web backend development  
+- 🥅 2022 Goals: Contribute more to Open Source projects, learn more about web backend development  
 
 ### Connect with me:  
 [<img align="left" alt="https://jinhao-l.github.io/portfolio" src="https://img.shields.io/badge/portfolio-%23DD0B78.svg?&style=for-the-badge&logo=starship&logoColor=white" />][website]
@@ -66,6 +66,10 @@
 
 <a href="https://www.docker.com" target="_blank">
   <img align="left" alt="Docker" height="32px" width="32px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
+</a>
+
+<a href="https://aws.amazon.com" target="_blank">
+  <img align="left" alt="AWS" height="32px" width="32px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 </a>
 
 <!-- [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://github.com/topics/javascript) -->
