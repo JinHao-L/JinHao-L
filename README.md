@@ -102,11 +102,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40](https://github.com/JinHao-L/tembu-friends/pull/40) in [JinHao-L/tembu-friends](https://github.com/JinHao-L/tembu-friends)
-2. 🔱 Forked [aws/secrets-store-csi-driver-provider-aws](https://github.com/aws/secrets-store-csi-driver-provider-aws) to [JinHao-L/secrets-store-csi-driver-provider-aws](https://github.com/JinHao-L/secrets-store-csi-driver-provider-aws)
-3. ⭐ Starred [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
-4. 🗣 Commented on [#118](https://github.com/se-edu/addressbook-level3/issues/118) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
-5. 💪 Opened PR [#118](https://github.com/se-edu/addressbook-level3/pull/118) in [se-edu/addressbook-level3](https://github.com/se-edu/addressbook-level3)
+1. 🔥 Pushed 0 commit to [JinHao-L/github-activity-readme](https://github.com/JinHao-L/github-activity-readme)
+2. 🔨 Created new Branch in [JinHao-L/Static-Program-Analyzer](https://github.com/JinHao-L/Static-Program-Analyzer)
+3. 🌱 Created new Repository in [JinHao-L/Static-Program-Analyzer](https://github.com/JinHao-L/Static-Program-Analyzer)
+4. 🔥 Pushed 1 commit to [JinHao-L/Leetcode_Solutions](https://github.com/JinHao-L/Leetcode_Solutions)
+5. 🔥 Pushed 1 commit to [JinHao-L/Leetcode_Solutions](https://github.com/JinHao-L/Leetcode_Solutions)
   <!--END_SECTION:activity-->
 </details>
 <details>
