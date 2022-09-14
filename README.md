@@ -102,11 +102,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🔥 Pushed 0 commit to [JinHao-L/github-activity-readme](https://github.com/JinHao-L/github-activity-readme)
-2. 🔨 Created new Branch in [JinHao-L/Static-Program-Analyzer](https://github.com/JinHao-L/Static-Program-Analyzer)
-3. 🌱 Created new Repository in [JinHao-L/Static-Program-Analyzer](https://github.com/JinHao-L/Static-Program-Analyzer)
-4. 🔥 Pushed 1 commit to [JinHao-L/Leetcode_Solutions](https://github.com/JinHao-L/Leetcode_Solutions)
-5. 🔥 Pushed 1 commit to [JinHao-L/Leetcode_Solutions](https://github.com/JinHao-L/Leetcode_Solutions)
+1. 🔥 Pushed 1 commit to [JinHao-L/github-activity-readme](https://github.com/JinHao-L/github-activity-readme)
+2. 🔥 Pushed 1 commit to [JinHao-L/github-activity-readme](https://github.com/JinHao-L/github-activity-readme)
+3. 🔥 Pushed 1 commit to [JinHao-L/github-activity-readme](https://github.com/JinHao-L/github-activity-readme)
+4. 🔥 Pushed 1 commit to [JinHao-L/github-activity-readme](https://github.com/JinHao-L/github-activity-readme)
+5. 🔥 Pushed 1 commit to [JinHao-L/github-activity-readme](https://github.com/JinHao-L/github-activity-readme)
   <!--END_SECTION:activity-->
 </details>
 <details>
