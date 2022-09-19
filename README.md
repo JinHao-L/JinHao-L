@@ -102,7 +102,7 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🔥 Pushed 17 commits to [JinHao-L/Leetcode_Solutions](https://github.com/JinHao-L/Leetcode_Solutions)
+1. 🔥 Pushed 20 commits to [JinHao-L/Leetcode_Solutions](https://github.com/JinHao-L/Leetcode_Solutions)
 2. 🔥 Pushed 1 commit to [JinHao-L/JinHao-L](https://github.com/JinHao-L/JinHao-L)
 3. 🔥 Pushed 9 commits to [JinHao-L/github-activity-readme](https://github.com/JinHao-L/github-activity-readme)
 4. 🌱 Created new Repository in [JinHao-L/Static-Program-Analyzer](https://github.com/JinHao-L/Static-Program-Analyzer)
