@@ -102,11 +102,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🔥 Pushed 3 commits to [JinHao-L/Leetcode_Solutions](https://github.com/JinHao-L/Leetcode_Solutions)
+1. 🔥 Pushed 6 commits to [JinHao-L/Leetcode_Solutions](https://github.com/JinHao-L/Leetcode_Solutions)
 2. 🔥 Pushed 12 commits to [JinHao-L/JinHao-L.github.io](https://github.com/JinHao-L/JinHao-L.github.io)
 3. 🔥 Pushed 72 commits to [JinHao-L/Leetcode_Solutions](https://github.com/JinHao-L/Leetcode_Solutions)
 4. 🔥 Pushed 1 commit to [JinHao-L/JinHao-L](https://github.com/JinHao-L/JinHao-L)
-5. 🔥 Pushed 9 commits to [JinHao-L/github-activity-readme](https://github.com/JinHao-L/github-activity-readme)
+5. 🔥 Pushed 8 commits to [JinHao-L/github-activity-readme](https://github.com/JinHao-L/github-activity-readme)
   <!--END_SECTION:activity-->
 </details>
 <details>
