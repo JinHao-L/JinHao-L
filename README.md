@@ -102,11 +102,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🔥 Pushed 11 commits to [JinHao-L/Leetcode_Solutions](https://github.com/JinHao-L/Leetcode_Solutions)
+1. 🔥 Pushed 17 commits to [JinHao-L/Leetcode_Solutions](https://github.com/JinHao-L/Leetcode_Solutions)
 2. 🔥 Pushed 7 commits to [JinHao-L/PoC-for-CVE-2020-28948-CVE-2020-28949](https://github.com/JinHao-L/PoC-for-CVE-2020-28948-CVE-2020-28949)
 3. 🔥 Pushed 9 commits to [JinHao-L/Leetcode_Solutions](https://github.com/JinHao-L/Leetcode_Solutions)
 4. 🔥 Pushed 12 commits to [JinHao-L/JinHao-L.github.io](https://github.com/JinHao-L/JinHao-L.github.io)
-5. 🔥 Pushed 62 commits to [JinHao-L/Leetcode_Solutions](https://github.com/JinHao-L/Leetcode_Solutions)
+5. 🔥 Pushed 56 commits to [JinHao-L/Leetcode_Solutions](https://github.com/JinHao-L/Leetcode_Solutions)
   <!--END_SECTION:activity-->
 </details>
 <details>
