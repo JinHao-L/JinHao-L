@@ -102,11 +102,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🔥 Pushed 9 commits to [JinHao-L/Leetcode_Solutions](https://github.com/JinHao-L/Leetcode_Solutions)
-2. 🔱 Forked [indocomsoft/cs4223-assignment-2](https://github.com/indocomsoft/cs4223-assignment-2) to [JinHao-L/cs4223-assignment-2](https://github.com/JinHao-L/cs4223-assignment-2)
-3. 🔥 Pushed 26 commits to [JinHao-L/Leetcode_Solutions](https://github.com/JinHao-L/Leetcode_Solutions)
-4. 🔥 Pushed 7 commits to [JinHao-L/PoC-for-CVE-2020-28948-CVE-2020-28949](https://github.com/JinHao-L/PoC-for-CVE-2020-28948-CVE-2020-28949)
-5. 🔥 Pushed 9 commits to [JinHao-L/Leetcode_Solutions](https://github.com/JinHao-L/Leetcode_Solutions)
+1. 💪 Opened PR [#41](https://github.com/JinHao-L/tembu-friends/pull/41) in [JinHao-L/tembu-friends](https://github.com/JinHao-L/tembu-friends)
+2. 🔥 Pushed 1 commit to [JinHao-L/tembu-friends](https://github.com/JinHao-L/tembu-friends)
+3. 🔥 Pushed 11 commits to [JinHao-L/Leetcode_Solutions](https://github.com/JinHao-L/Leetcode_Solutions)
+4. 🔱 Forked [indocomsoft/cs4223-assignment-2](https://github.com/indocomsoft/cs4223-assignment-2) to [JinHao-L/cs4223-assignment-2](https://github.com/JinHao-L/cs4223-assignment-2)
+5. 🔥 Pushed 26 commits to [JinHao-L/Leetcode_Solutions](https://github.com/JinHao-L/Leetcode_Solutions)
   <!--END_SECTION:activity-->
 </details>
 <details>
