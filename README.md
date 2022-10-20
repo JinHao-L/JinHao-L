@@ -102,7 +102,7 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🔥 Pushed 3 commits to [JinHao-L/Leetcode_Solutions](https://github.com/JinHao-L/Leetcode_Solutions)
+1. 🔥 Pushed 8 commits to [JinHao-L/Leetcode_Solutions](https://github.com/JinHao-L/Leetcode_Solutions)
 2. 🔥 Pushed 1 commit to [JinHao-L/PoC-for-CVE-2020-28948-CVE-2020-28949](https://github.com/JinHao-L/PoC-for-CVE-2020-28948-CVE-2020-28949)
 3. 🔥 Pushed 5 commits to [JinHao-L/Leetcode_Solutions](https://github.com/JinHao-L/Leetcode_Solutions)
 4. 💪 Opened PR [#41](https://github.com/JinHao-L/tembu-friends/pull/41) in [JinHao-L/tembu-friends](https://github.com/JinHao-L/tembu-friends)
