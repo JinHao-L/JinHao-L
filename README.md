@@ -102,11 +102,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🔥 Pushed 3 commits to [JinHao-L/Leetcode_Solutions](https://github.com/JinHao-L/Leetcode_Solutions)
-2. 🔥 Pushed 1 commit to [JinHao-L/SGNearMe](https://github.com/JinHao-L/SGNearMe)
-3. 🔥 Pushed 90 commits to [JinHao-L/Leetcode_Solutions](https://github.com/JinHao-L/Leetcode_Solutions)
-4. 🔥 Pushed 1 commit to [JinHao-L/PoC-for-CVE-2020-28948-CVE-2020-28949](https://github.com/JinHao-L/PoC-for-CVE-2020-28948-CVE-2020-28949)
-5. 🔥 Pushed 4 commits to [JinHao-L/Leetcode_Solutions](https://github.com/JinHao-L/Leetcode_Solutions)
+1. 🔥 Pushed 1 commit to [JinHao-L/sw-code-challenge](https://github.com/JinHao-L/sw-code-challenge)
+2. 🌱 Created new Repository in [JinHao-L/switcheo-code-challenge](https://github.com/JinHao-L/switcheo-code-challenge)
+3. 🔥 Pushed 3 commits to [JinHao-L/Leetcode_Solutions](https://github.com/JinHao-L/Leetcode_Solutions)
+4. 🔥 Pushed 1 commit to [JinHao-L/SGNearMe](https://github.com/JinHao-L/SGNearMe)
+5. 🔥 Pushed 90 commits to [JinHao-L/Leetcode_Solutions](https://github.com/JinHao-L/Leetcode_Solutions)
   <!--END_SECTION:activity-->
 </details>
 <details>
