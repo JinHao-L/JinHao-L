@@ -102,11 +102,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🔥 Pushed 3 commits to [JinHao-L/Advent-of-Code](https://github.com/JinHao-L/Advent-of-Code)
-2. 🔥 Pushed 1 commit to [JinHao-L/sw-code-challenge](https://github.com/JinHao-L/sw-code-challenge)
-3. 🌱 Created new Repository in [JinHao-L/switcheo-code-challenge](https://github.com/JinHao-L/switcheo-code-challenge)
-4. 🔥 Pushed 3 commits to [JinHao-L/Leetcode_Solutions](https://github.com/JinHao-L/Leetcode_Solutions)
-5. 🔥 Pushed 1 commit to [JinHao-L/SGNearMe](https://github.com/JinHao-L/SGNearMe)
+1. ⭐ Starred [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)
+2. ⭐ Starred [mxrch/GHunt](https://github.com/mxrch/GHunt)
+3. 🔥 Pushed 3 commits to [JinHao-L/Advent-of-Code](https://github.com/JinHao-L/Advent-of-Code)
+4. 🔥 Pushed 1 commit to [JinHao-L/sw-code-challenge](https://github.com/JinHao-L/sw-code-challenge)
+5. 🌱 Created new Repository in [JinHao-L/switcheo-code-challenge](https://github.com/JinHao-L/switcheo-code-challenge)
   <!--END_SECTION:activity-->
 </details>
 <details>
