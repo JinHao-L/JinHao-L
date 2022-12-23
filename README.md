@@ -102,11 +102,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/JinHao-L/tembufriends-functions/pull/16) in [JinHao-L/tembufriends-functions](https://github.com/JinHao-L/tembufriends-functions)
-2. 🔥 Pushed 1 commit to [JinHao-L/tembufriends-functions](https://github.com/JinHao-L/tembufriends-functions)
-3. 🔥 Pushed 6 commits to [JinHao-L/Advent-of-Code](https://github.com/JinHao-L/Advent-of-Code)
-4. ⭐ Starred [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)
-5. ⭐ Starred [mxrch/GHunt](https://github.com/mxrch/GHunt)
+1. 💪 Opened PR [#2](https://github.com/JinHao-L/SGNearMe/pull/2) in [JinHao-L/SGNearMe](https://github.com/JinHao-L/SGNearMe)
+2. 🔥 Pushed 1 commit to [JinHao-L/SGNearMe](https://github.com/JinHao-L/SGNearMe)
+3. 💪 Opened PR [#16](https://github.com/JinHao-L/tembufriends-functions/pull/16) in [JinHao-L/tembufriends-functions](https://github.com/JinHao-L/tembufriends-functions)
+4. 🔥 Pushed 1 commit to [JinHao-L/tembufriends-functions](https://github.com/JinHao-L/tembufriends-functions)
+5. 🔥 Pushed 6 commits to [JinHao-L/Advent-of-Code](https://github.com/JinHao-L/Advent-of-Code)
   <!--END_SECTION:activity-->
 </details>
 <details>
