@@ -102,11 +102,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🔥 Pushed 6 commits to [JinHao-L/Advent-of-Code](https://github.com/JinHao-L/Advent-of-Code)
-2. ⭐ Starred [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)
-3. ⭐ Starred [mxrch/GHunt](https://github.com/mxrch/GHunt)
-4. 🔥 Pushed 3 commits to [JinHao-L/Advent-of-Code](https://github.com/JinHao-L/Advent-of-Code)
-5. 🔥 Pushed 1 commit to [JinHao-L/sw-code-challenge](https://github.com/JinHao-L/sw-code-challenge)
+1. 💪 Opened PR [#16](https://github.com/JinHao-L/tembufriends-functions/pull/16) in [JinHao-L/tembufriends-functions](https://github.com/JinHao-L/tembufriends-functions)
+2. 🔥 Pushed 1 commit to [JinHao-L/tembufriends-functions](https://github.com/JinHao-L/tembufriends-functions)
+3. 🔥 Pushed 6 commits to [JinHao-L/Advent-of-Code](https://github.com/JinHao-L/Advent-of-Code)
+4. ⭐ Starred [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)
+5. ⭐ Starred [mxrch/GHunt](https://github.com/mxrch/GHunt)
   <!--END_SECTION:activity-->
 </details>
 <details>
