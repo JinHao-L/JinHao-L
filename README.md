@@ -1,7 +1,7 @@
 # Hi there, I'm Jin Hao <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">  
 
-### I'm a final year Computer Science student in NUS!  
-- 🔭 I’m a fresh graduate from NUS Computer Science
+### I'm a fresh graduate from NUS Computer Science!  
+- 🔭 I specialise in Software Engineering and Computer Security
 - 🌱 I’m also expanding my knowledge on Cloud computing and blockchain technology.
 - 💼 Worked on a EduTech Startup, [AfterClass](https://afterclass.io/), as the Chief Tech Lead
 - 💼 Interned at [SEA Group](https://sea.com/home) as a Frontend Engineer
