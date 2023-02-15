@@ -103,11 +103,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🔥 Pushed 2 commits to [JinHao-L/JinHao-L](https://github.com/JinHao-L/JinHao-L)
-2. 💪 Opened PR [#2](https://github.com/JinHao-L/SGNearMe/pull/2) in [JinHao-L/SGNearMe](https://github.com/JinHao-L/SGNearMe)
-3. 🔥 Pushed 1 commit to [JinHao-L/SGNearMe](https://github.com/JinHao-L/SGNearMe)
-4. 💪 Opened PR [#16](https://github.com/JinHao-L/tembufriends-functions/pull/16) in [JinHao-L/tembufriends-functions](https://github.com/JinHao-L/tembufriends-functions)
-5. 🔥 Pushed 1 commit to [JinHao-L/tembufriends-functions](https://github.com/JinHao-L/tembufriends-functions)
+1. 💪 Opened PR [#45](https://github.com/JinHao-L/tembu-friends/pull/45) in [JinHao-L/tembu-friends](https://github.com/JinHao-L/tembu-friends)
+2. 🔥 Pushed 1 commit to [JinHao-L/tembu-friends](https://github.com/JinHao-L/tembu-friends)
+3. 🔥 Pushed 2 commits to [JinHao-L/JinHao-L](https://github.com/JinHao-L/JinHao-L)
+4. 💪 Opened PR [#2](https://github.com/JinHao-L/SGNearMe/pull/2) in [JinHao-L/SGNearMe](https://github.com/JinHao-L/SGNearMe)
+5. 🔥 Pushed 1 commit to [JinHao-L/SGNearMe](https://github.com/JinHao-L/SGNearMe)
   <!--END_SECTION:activity-->
 </details>
 <details>
