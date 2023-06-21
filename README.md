@@ -103,11 +103,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🔥 Pushed 1 commit to [JinHao-L/tembu-friends](https://github.com/JinHao-L/tembu-friends)
-2. 💪 Opened PR [#46](https://github.com/JinHao-L/tembu-friends/pull/46) in [JinHao-L/tembu-friends](https://github.com/JinHao-L/tembu-friends)
-3. ❗️ Opened issue [#257](https://github.com/hackpackctf/issue-tracker/issues/257) in [hackpackctf/issue-tracker](https://github.com/hackpackctf/issue-tracker)
-4. 🔥 Pushed 1 commit to [JinHao-L/http_proxy](https://github.com/JinHao-L/http_proxy)
-5. 🔥 Pushed 2 commits to [JinHao-L/JinHao-L](https://github.com/JinHao-L/JinHao-L)
+1. 💪 Opened PR [#18](https://github.com/JinHao-L/tembufriends-functions/pull/18) in [JinHao-L/tembufriends-functions](https://github.com/JinHao-L/tembufriends-functions)
+2. 🔥 Pushed 1 commit to [JinHao-L/tembufriends-functions](https://github.com/JinHao-L/tembufriends-functions)
+3. 🔥 Pushed 1 commit to [JinHao-L/tembu-friends](https://github.com/JinHao-L/tembu-friends)
+4. 💪 Opened PR [#46](https://github.com/JinHao-L/tembu-friends/pull/46) in [JinHao-L/tembu-friends](https://github.com/JinHao-L/tembu-friends)
+5. ❗️ Opened issue [#257](https://github.com/hackpackctf/issue-tracker/issues/257) in [hackpackctf/issue-tracker](https://github.com/hackpackctf/issue-tracker)
   <!--END_SECTION:activity-->
 </details>
 <details>
