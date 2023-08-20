@@ -103,11 +103,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🔥 Pushed 1 commit to [JinHao-L/tembu-friends](https://github.com/JinHao-L/tembu-friends)
-2. 💪 Opened PR [#18](https://github.com/JinHao-L/tembufriends-functions/pull/18) in [JinHao-L/tembufriends-functions](https://github.com/JinHao-L/tembufriends-functions)
-3. 🔥 Pushed 1 commit to [JinHao-L/tembufriends-functions](https://github.com/JinHao-L/tembufriends-functions)
-4. 🔥 Pushed 1 commit to [JinHao-L/tembu-friends](https://github.com/JinHao-L/tembu-friends)
-5. 💪 Opened PR [#46](https://github.com/JinHao-L/tembu-friends/pull/46) in [JinHao-L/tembu-friends](https://github.com/JinHao-L/tembu-friends)
+1. 💪 Opened PR [#47](https://github.com/JinHao-L/tembu-friends/pull/47) in [JinHao-L/tembu-friends](https://github.com/JinHao-L/tembu-friends)
+2. 🔥 Pushed 2 commits to [JinHao-L/tembu-friends](https://github.com/JinHao-L/tembu-friends)
+3. 💪 Opened PR [#18](https://github.com/JinHao-L/tembufriends-functions/pull/18) in [JinHao-L/tembufriends-functions](https://github.com/JinHao-L/tembufriends-functions)
+4. 🔥 Pushed 1 commit to [JinHao-L/tembufriends-functions](https://github.com/JinHao-L/tembufriends-functions)
+5. 🔥 Pushed 1 commit to [JinHao-L/tembu-friends](https://github.com/JinHao-L/tembu-friends)
   <!--END_SECTION:activity-->
 </details>
 <details>
