@@ -103,11 +103,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#47](https://github.com/JinHao-L/tembu-friends/pull/47) in [JinHao-L/tembu-friends](https://github.com/JinHao-L/tembu-friends)
-2. 🔥 Pushed 2 commits to [JinHao-L/tembu-friends](https://github.com/JinHao-L/tembu-friends)
-3. 💪 Opened PR [#18](https://github.com/JinHao-L/tembufriends-functions/pull/18) in [JinHao-L/tembufriends-functions](https://github.com/JinHao-L/tembufriends-functions)
-4. 🔥 Pushed 1 commit to [JinHao-L/tembufriends-functions](https://github.com/JinHao-L/tembufriends-functions)
-5. 🔥 Pushed 1 commit to [JinHao-L/tembu-friends](https://github.com/JinHao-L/tembu-friends)
+1. 🔥 Pushed 2 commits to [JinHao-L/PALINDROME-PORTAL](https://github.com/JinHao-L/PALINDROME-PORTAL)
+2. 🗣 Commented on [#25](https://github.com/palindrome-wow/PALINDROME-PORTAL/issues/25) in [palindrome-wow/PALINDROME-PORTAL](https://github.com/palindrome-wow/PALINDROME-PORTAL)
+3. ❌ Reopened PR [#25](https://github.com/palindrome-wow/PALINDROME-PORTAL/pull/25) in [palindrome-wow/PALINDROME-PORTAL](https://github.com/palindrome-wow/PALINDROME-PORTAL)
+4. ❌ Closed PR [#25](https://github.com/palindrome-wow/PALINDROME-PORTAL/pull/25) in [palindrome-wow/PALINDROME-PORTAL](https://github.com/palindrome-wow/PALINDROME-PORTAL)
+5. 💪 Opened PR [#25](https://github.com/palindrome-wow/PALINDROME-PORTAL/pull/25) in [palindrome-wow/PALINDROME-PORTAL](https://github.com/palindrome-wow/PALINDROME-PORTAL)
   <!--END_SECTION:activity-->
 </details>
 <details>
