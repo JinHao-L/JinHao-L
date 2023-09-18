@@ -103,11 +103,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🔥 Pushed 2 commits to [JinHao-L/PALINDROME-PORTAL](https://github.com/JinHao-L/PALINDROME-PORTAL)
-2. 🗣 Commented on [#25](https://github.com/palindrome-wow/PALINDROME-PORTAL/issues/25) in [palindrome-wow/PALINDROME-PORTAL](https://github.com/palindrome-wow/PALINDROME-PORTAL)
-3. ❌ Reopened PR [#25](https://github.com/palindrome-wow/PALINDROME-PORTAL/pull/25) in [palindrome-wow/PALINDROME-PORTAL](https://github.com/palindrome-wow/PALINDROME-PORTAL)
-4. ❌ Closed PR [#25](https://github.com/palindrome-wow/PALINDROME-PORTAL/pull/25) in [palindrome-wow/PALINDROME-PORTAL](https://github.com/palindrome-wow/PALINDROME-PORTAL)
-5. 💪 Opened PR [#25](https://github.com/palindrome-wow/PALINDROME-PORTAL/pull/25) in [palindrome-wow/PALINDROME-PORTAL](https://github.com/palindrome-wow/PALINDROME-PORTAL)
+1. ❌ Closed PR [#25](https://github.com/palindrome-wow/PALINDROME-PORTAL/pull/25) in [palindrome-wow/PALINDROME-PORTAL](https://github.com/palindrome-wow/PALINDROME-PORTAL)
+2. 🔥 Pushed 2 commits to [JinHao-L/PALINDROME-PORTAL](https://github.com/JinHao-L/PALINDROME-PORTAL)
+3. 🗣 Commented on [#25](https://github.com/palindrome-wow/PALINDROME-PORTAL/issues/25) in [palindrome-wow/PALINDROME-PORTAL](https://github.com/palindrome-wow/PALINDROME-PORTAL)
+4. ❌ Reopened PR [#25](https://github.com/palindrome-wow/PALINDROME-PORTAL/pull/25) in [palindrome-wow/PALINDROME-PORTAL](https://github.com/palindrome-wow/PALINDROME-PORTAL)
+5. ❌ Closed PR [#25](https://github.com/palindrome-wow/PALINDROME-PORTAL/pull/25) in [palindrome-wow/PALINDROME-PORTAL](https://github.com/palindrome-wow/PALINDROME-PORTAL)
   <!--END_SECTION:activity-->
 </details>
 <details>
