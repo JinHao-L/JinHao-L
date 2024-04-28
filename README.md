@@ -101,11 +101,11 @@
   <summary>:zap: Recent Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🔥 Pushed 7 commits to [JinHao-L/Pomotama](https://github.com/JinHao-L/Pomotama)
-2. 🔱 Forked [teoh4770/Pomotama](https://github.com/teoh4770/Pomotama) to [JinHao-L/Pomotama](https://github.com/JinHao-L/Pomotama)
-3. 🔥 Pushed 1 commit to [JinHao-L/JinHao-L](https://github.com/JinHao-L/JinHao-L)
-4. 🔥 Pushed 9 commits to [JinHao-L/JinHao-L.github.io](https://github.com/JinHao-L/JinHao-L.github.io)
-5. 🎉 Merged PR [#1](https://github.com/JinHao-L/JinHao-L.github.io/pull/1) in [JinHao-L/JinHao-L.github.io](https://github.com/JinHao-L/JinHao-L.github.io)
+1. ⭐ Starred [httptoolkit/react-reverse-portal](https://github.com/httptoolkit/react-reverse-portal)
+2. 🔥 Pushed 7 commits to [JinHao-L/Pomotama](https://github.com/JinHao-L/Pomotama)
+3. 🔱 Forked [teoh4770/Pomotama](https://github.com/teoh4770/Pomotama) to [JinHao-L/Pomotama](https://github.com/JinHao-L/Pomotama)
+4. 🔥 Pushed 1 commit to [JinHao-L/JinHao-L](https://github.com/JinHao-L/JinHao-L)
+5. 🔥 Pushed 9 commits to [JinHao-L/JinHao-L.github.io](https://github.com/JinHao-L/JinHao-L.github.io)
   <!--END_SECTION:activity-->
 </details>
 <details>
